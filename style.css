@@ -38,6 +38,9 @@
     padding-top: 80px;
     padding-bottom: 80px;
 }
+.footerb{
+    background-color: #1c1e32;
+}
 .fthv:hover{
     text-decoration: underline !important;
 
