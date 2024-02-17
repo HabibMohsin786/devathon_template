@@ -1,5 +1,22 @@
-*{
+* {
     font-family: Arial, Helvetica, sans-serif;
     padding: 0;
     margin: 0;
+}
+
+.nvnxt {
+    background-color: #2b2e4a;
+    margin-top: -40px;
+}
+.drp{
+    background-color: transparent;
+}
+.footer{
+    background-color: #2b2e4a;
+    padding-top: 80px;
+    padding-bottom: 80px;
+}
+.fthv:hover{
+    text-decoration: underline !important;
+
 }
